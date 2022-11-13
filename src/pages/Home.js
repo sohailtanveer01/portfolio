@@ -17,7 +17,7 @@ const Home = () => {
     <div class="flex justify-center bg-black p-8" id='home'>
       <div class="flex flex-col justify-center">
         <div class="flex flex-col lg:flex-row max-w-7xl justify-center items-center p-2 space-y-3 w-full">
-          <div class="flex flex-col  text-white md:items-start items-center justify-between  space-y-3 px-8">
+        <div class="flex flex-col mt-10 md:items-start items-center justify-between  space-y-3 px-8">
             <div class="text-cyan-600 text-5xl md:text-7xl font-bold ">
               MERN stack{" "}
             </div>
