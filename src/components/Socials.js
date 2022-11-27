@@ -41,7 +41,7 @@ const SocialLinks = () => {
             Instagram <FaInstagram size={30} />
           </>
         ),
-        href: "https://github.com/theyashpatel",
+        href: "https://www.instagram.com/sohail_tanveer01/",
       },
       {
         id: 5,
