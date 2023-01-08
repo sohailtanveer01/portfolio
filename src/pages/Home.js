@@ -94,7 +94,7 @@ const Home = () => {
             </p>
            
             <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-            <a href='https://ecommerce-site-st.herokuapp.com/' target="_blank">
+            <a href='https://ecom-vercel-omega.vercel.app/' target="_blank">
                 visit the complete project in detail
             </a>
             </button>
